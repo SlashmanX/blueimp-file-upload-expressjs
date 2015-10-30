@@ -20,7 +20,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/arvindr21/blueimp-file-upload-expressjs.git"
+    "url": "https://github.com/SlashmanX/blueimp-file-upload-expressjs.git"
   },
   "keywords": [
     "jQuery",
@@ -33,7 +33,7 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/arvindr21/blueimp-file-upload-expressjs/issues"
+    "url": "https://github.com/SlashmanX/blueimp-file-upload-expressjs/issues"
   },
-  "homepage": "https://github.com/arvindr21/blueimp-file-upload-expressjs",
+  "homepage": "https://github.com/SlashmanX/blueimp-file-upload-expressjs"
 }
